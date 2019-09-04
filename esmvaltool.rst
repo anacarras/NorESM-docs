@@ -12,7 +12,7 @@ ESMValTool extension for NorESM (NorESMValTool) covers
 | `` * ESMValTool``
 | `` * observational data``
 | `` * CMIP5 model data``
-| `` * namelists and scripts customised for NorESM ``
+| `` * namelists and scripts customised for NorESM ``researchers
 | `` * wrapper scripts for easy use``
 
 and is available at
@@ -542,6 +542,7 @@ CMIP5 model output
 Where to store
 ~~~~~~~~~~~~~~
 
+#ANA CARRASCO
 Additional CMIP5 model output should be stored in
 $HOME/NorESMValTool/data/model/CMIP5 (which is a symbolic link to the
 project folder /projects/NS2345K/NorESMValTool/data/model/CMIP5). Each
